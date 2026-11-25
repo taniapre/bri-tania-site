@@ -1,0 +1,9 @@
+mirror/
+_source-home.html
+_*.py
+_*.txt
+.DS_Store
+Thumbs.db
+
+assets/post-10.css
+assets/post-91.css

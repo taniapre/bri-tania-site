@@ -75,8 +75,7 @@ a { color: inherit; }
 }
 
 .lang-switch a {
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
   color: var(--navy);
   min-width: 44px;
   min-height: 44px;
@@ -95,8 +94,10 @@ a { color: inherit; }
   align-items: center;
   justify-content: center;
   padding: 0.5rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  color: var(--navy);
 }
-
 .logo {
   display: inline-flex;
   align-items: center;

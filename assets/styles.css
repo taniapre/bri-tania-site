@@ -577,9 +577,18 @@ a { color: inherit; }
 }
 
 .site-footer .legal-line {
-  font-size: 0.85rem;
-  margin: 0.35rem 0;
+  font-size: 0.62rem;
+  line-height: 1.4;
+  margin: 0.55rem auto 0.25rem;
+  max-width: 28rem;
   color: #fff;
+  opacity: 0.85;
+  letter-spacing: 0.01em;
+}
+
+.site-footer .legal-links {
+  font-size: 0.7rem;
+  margin: 0.2rem 0;
 }
 
 .site-footer .legal-links a {

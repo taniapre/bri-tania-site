@@ -1,3 +1,19 @@
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Questrial";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/questrial-qdvustchpbm7nuuevf70vifl.woff2") format("woff2");
+}
+
 :root {
   --navy: #233b73;
   --coral: #ff6666;
@@ -498,6 +514,37 @@ a { color: inherit; }
   margin: 0.2rem 0;
   font-family: var(--font);
   font-size: 0.9rem;
+}
+
+.form-consent {
+  display: flex;
+  gap: 0.65rem;
+  align-items: flex-start;
+  margin: 0.75rem 0 1rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.form-consent input {
+  margin-top: 0.25rem;
+  flex-shrink: 0;
+}
+
+.form-consent a {
+  color: var(--navy);
+  text-decoration: underline;
+}
+
+.site-footer .legal-line {
+  font-size: 0.85rem;
+  opacity: 0.9;
+  margin: 0.35rem 0;
+}
+
+.site-footer .legal-links a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 @media (max-width: 960px) {

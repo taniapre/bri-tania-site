@@ -1,0 +1,142 @@
+# BriTania – full site content for LLMs
+
+> Complete Markdown dump of https://bri-tania.com/ (Italian primary + English mirror). Index: https://bri-tania.com/llms.txt
+
+Source: https://bri-tania.com/ · English: https://bri-tania.com/en/  
+Last aligned with the live static site (GitHub Pages).
+
+---
+
+## Entity
+
+- **Brand:** BriTania  
+- **Person:** Tania Prestini  
+- **Activity:** English courses, language events, copywriting, translations  
+- **Area:** Bergamo and Val Seriana (Italy)  
+- **Address (legal):** Via Loreto 87, 24069 Cenate Sotto (BG), Italia  
+- **Tax code:** PRSTNA90E58C800R  
+- **Email:** taniaprestini@gmail.com  
+- **Phone / WhatsApp:** +39 347 804 6948  
+- **Social:** Instagram https://www.instagram.com/bri_tania_prestini/ · Facebook https://www.facebook.com/tania.prestini/ · LinkedIn https://it.linkedin.com/in/taniaprestini  
+- **Languages of the site:** Italian (default), English  
+
+---
+
+## Page: Home (Italian) — https://bri-tania.com/
+
+### Hero
+
+Hello! I'm Tania.
+
+Ciao, sono Tania; BriTania, per chiunque stia cercando un riferimento professionale per la lingua inglese a Bergamo e provincia.
+
+### Chi sono
+
+Sono nata in Val Seriana, ma parte delle mie origini sono a Plymouth, nel Sud Ovest dell’Inghilterra.
+
+Crescere circondata da due lingue mi ha fatto appassionare a tutto ciò che pertiene al linguaggio. Fin da piccola ero consapevole che ogni cosa aveva almeno due nomi, e questo mi ha dato una prospettiva particolare sulla vita.
+
+La comunicazione è il mio pane quotidiano: dopo aver lavorato per 10 anni nella comunicazione per il mondo aziendale, ho scelto di seguire la mia strada, offrendo una serie di servizi in lingua inglese.
+
+La mia specialità sono le idee e la mia passione è creare contenuti accattivanti e proporre attività che intrattengano le persone, consentendo loro di raggiungere i propri obiettivi, personali o professionali.
+
+BriTania nasce dall’idea di coniugare la fortuna di essere cresciuta in una famiglia bilingue con la mia esperienza professionale nell’ambito della comunicazione.
+
+Con questo progetto vorrei mettere la mia conoscenza dell’inglese al servizio delle persone e del territorio meraviglioso dove sono nata e cresciuta.
+
+### Servizi — Corsi
+
+Corsi e lezioni per tutti i livelli e per tutte le età, individuali o di gruppo, per imparare, rafforzare o mantenere il tuo inglese. Come? Attraverso attività coinvolgenti e sempre diverse, caratterizzate da tanta interazione e comunicazione vera, con la finalità di supportarti nel raggiungimento dei tuoi obiettivi.
+
+- Esperta madrelingua con abilitazione internazionale TEFL  
+- Percorsi 100% personalizzati  
+- Insegnamento mirato agli obiettivi  
+- Metodo divertente, efficace e pratico  
+
+### Servizi — Eventi
+
+Eventi in lingua per chi ha un buon livello di inglese, ma poche occasioni per metterlo in pratica. Gli eventi BriTania sono occasioni informali pensate per permetterti di conversare in inglese e allo stesso tempo fare vita sociale.
+
+Potresti trovare quello che fa per te tra i format BriTania. Se vuoi rimanere aggiornato sui prossimi eventi, visita le pagine social.
+
+#### Gestisci un locale?
+
+Se invece gestisci un locale in prima persona e ti piacerebbe offrire questa opportunità alla tua clientela, sarei felice di progettare insieme il tuo nuovo e coinvolgente evento in lingua.
+
+### Servizi — Copywriting e traduzioni
+
+Sono molte le aziende e gli enti che hanno la necessità di rivolgersi a un pubblico internazionale. Tuttavia, spesso non è sufficiente la semplice traduzione per rendere al meglio il messaggio del tuo pay-off, del tuo sito, della tua brochure, del tuo video o dei tuoi social post. Per questo motivo, oltre al servizio di traduzione, offro anche il servizio di copywriting, ossia di stesura di contenuti testuali originali in lingua inglese, per assicurare una comunicazione più naturale, efficace e accattivante.
+
+- Creazione di contenuti in inglese per aziende, enti e organizzazioni  
+- Traduzioni dall’italiano all’inglese e dall’inglese all’italiano  
+
+### Format
+
+#### English Tasting
+
+Degustazioni a tema che ti porteranno a scoprire prodotti enogastronomici dei paesi anglosassoni (e non solo) e di fare conversazione con tante persone che come te desiderano tenere in allenamento il proprio inglese e trovare occasioni di scambio e di socializzazione. (min. 8 partecipanti)
+
+#### Travel & Songs
+
+Il primo corso situazionale per acquisire l’inglese che ti serve per viaggiare. Una full immersion condita con tante attività e canzoni, che ti porterà a percorrere le tappe fondamentali di un viaggio verso una destinazione ideale, preparandoti ad affrontare la tua prossima meta all’estero. (min. 4 partecipanti)
+
+#### English Breakfast
+
+Il corso a base di inglese e biscotti (e non solo) per colazione. Pensato per piccoli gruppi di amici e conoscenti che desiderano imparare l’inglese in un contesto familiare e tranquillo, presso il proprio bar o locale di fiducia. Ideale per chi ha orari flessibili o tempo libero al mattino. (min. 4 partecipanti)
+
+#### TV & Book Club
+
+Incontri a tema per dibattere in inglese delle trame e di tutto ciò che avete amato (o odiato) di un particolare libro, film o serie TV. Il club propone anche la visione o la lettura guidata delle storie in lingua originale, per darvi la possibilità di godere di tutti quei particolari che vengono persi nel doppiaggio o nella traduzione. (min. 8 partecipanti)
+
+#### Back on Track
+
+Campus estivo per ragazzi delle scuole medie e superiori che hanno bisogno di affrontare l’esame di recupero a settembre o di rafforzare il proprio inglese in vista del nuovo anno scolastico. A differenza delle classiche ripetizioni frontali, Back on Track propone attività coinvolgenti e scambi tra pari in piccoli gruppi di 2-3 ragazzi della stessa età e livello. (min. 2 partecipanti)
+
+### Contatti
+
+Contattami senza impegno, tramite il canale che preferisci.  
+Seguimi sui canali social per le novità.
+
+- Telefono: +39 347 804 6948  
+- Email: taniaprestini@gmail.com  
+- WhatsApp: https://wa.me/393478046948  
+- Modulo sul sito (con consenso privacy) verso FormSubmit → email del Titolare  
+
+Footer tagline: Corsi Eventi Copywriting Traduzioni · Bergamo e Val Seriana  
+
+Legal links: https://bri-tania.com/privacy.html · https://bri-tania.com/cookie.html  
+
+---
+
+## Page: Home (English) — https://bri-tania.com/en/
+
+Mirror of the Italian home. Summary of English copy:
+
+Hi, I'm Tania — BriTania — for anyone looking for a professional reference for the English language in Bergamo and the surrounding area.
+
+Born in Val Seriana; family roots also in Plymouth (South West England). Bilingual upbringing. About 10 years in corporate communications, then BriTania: teaching English, hosting language events, writing and translating for people and organisations nearby.
+
+**Courses:** all levels and ages, one-to-one or groups; TEFL-qualified; personalised, goal-oriented, practical method.  
+**Events:** informal practice for people who already speak English but lack chances to use it; formats listed above; venues welcome collaboration.  
+**Copywriting & translations:** original English content for companies; IT↔EN translation.  
+**Formats:** English Tasting; Travel & Songs; English Breakfast; TV & Book Club; Back on Track (same descriptions as Italian).  
+**Contact:** same phone, email, WhatsApp, form; privacy notice EN: https://bri-tania.com/en/privacy.html · cookie: https://bri-tania.com/en/cookie.html  
+
+---
+
+## Legal (pointers)
+
+- Privacy (IT): https://bri-tania.com/privacy.html  
+- Cookie (IT): https://bri-tania.com/cookie.html  
+- Privacy (EN): https://bri-tania.com/en/privacy.html  
+- Cookie (EN): https://bri-tania.com/en/cookie.html  
+
+No Google Analytics. Fonts self-hosted. Contact form uses FormSubmit (third party). Hosting: GitHub Pages.  
+
+---
+
+## Related files
+
+- Index for agents: https://bri-tania.com/llms.txt  
+- Short about: https://bri-tania.com/about.md  
+- Sitemap: https://bri-tania.com/sitemap.xml  

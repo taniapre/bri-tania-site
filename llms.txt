@@ -1,14 +1,15 @@
 # BriTania
 
-> English courses, language events, copywriting and translations by Tania Prestini (BriTania), based in Cenate Sotto near Bergamo, Italy.
+> English courses, language events, copywriting and translations by Tania Prestini (BriTania), based near Bergamo (Val Seriana), Italy.
 
 BriTania offers personalised English lessons, informal practice events, business copywriting and Italian↔English translation. Contact: taniaprestini@gmail.com · +39 347 804 6948.
 
 ## Pages
 
 - [Home (Italian)](https://bri-tania.com/): about, services, formats, contact
-- [Home (English)](https://bri-tania.com/en/): English version
-- [About summary](https://bri-tania.com/about.md): short profile for agents
+- [Home (English)](https://bri-tania.com/en/): English version of the same content
+- [About summary](https://bri-tania.com/about.md): concise profile for agents
+- [Full site dump](https://bri-tania.com/llms-full.txt): complete Markdown content (llms-full)
 
 ## Services
 
@@ -28,3 +29,5 @@ BriTania offers personalised English lessons, informal practice events, business
 ## Optional
 
 - [Sitemap](https://bri-tania.com/sitemap.xml)
+- [Privacy (IT)](https://bri-tania.com/privacy.html)
+- [Cookie (IT)](https://bri-tania.com/cookie.html)

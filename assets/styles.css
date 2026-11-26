@@ -110,7 +110,7 @@ a { color: inherit; }
 
 .logo img {
   margin: 0 auto;
-  width: 140px;
+  width: 150px;
   height: auto;
 }
 
@@ -607,7 +607,7 @@ a { color: inherit; }
   }
 
   .logo img {
-    width: 96px;
+    width: 118px;
   }
 
   .tagline-nav {
@@ -684,7 +684,7 @@ a { color: inherit; }
 
 @media (max-width: 560px) {
   .logo img {
-    width: 84px;
+    width: 112px;
   }
 
   .hero-copy,

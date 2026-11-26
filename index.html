@@ -24,10 +24,9 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content="https://bri-tania.com/assets/images/og-cover.jpg" />
   <link rel="icon" href="assets/images/BriTania-logo.png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Questrial&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/fonts.css" />
   <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="stylesheet" href="assets/legal.css" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -307,6 +306,10 @@
             <label>Email<input type="email" name="email" required autocomplete="email" /></label>
             <label>Telefono <span class="opt">(opzionale)</span><input type="tel" name="telefono" autocomplete="tel" /></label>
             <label>Messaggio<textarea name="messaggio" rows="5" required></textarea></label>
+            <label class="form-consent">
+              <input type="checkbox" name="privacy_consent" value="accetto" required />
+              <span>Ho letto l’<a href="privacy.html" target="_blank" rel="noopener">informativa privacy</a> e acconsento al trattamento dei dati per ricevere risposta. I dati saranno inoltrati tramite FormSubmit all’email del Titolare.</span>
+            </label>
             <button type="submit">Invia messaggio</button>
           </form>
         </div>
@@ -318,6 +321,8 @@
     <img src="assets/images/BriTania-logo.png" alt="BriTania" width="70" height="70" />
     <p>Corsi Eventi Copywriting Traduzioni</p>
     <p>Bergamo e Val Seriana · Cenate Sotto (BG)</p>
+    <p class="legal-line">Tania Prestini – BriTania · Via Loreto 87, 24069 Cenate Sotto (BG)<br />C.F. PRSTNA90E58C800R · P.IVA <em>[inserire P.IVA]</em></p>
+    <p class="legal-links"><a href="privacy.html">Privacy Policy</a> · <a href="cookie.html">Cookie Policy</a></p>
     <p>© <span id="year"></span> BriTania – Tutti i diritti riservati</p>
   </footer>
 

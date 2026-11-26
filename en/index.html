@@ -24,10 +24,9 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content="https://bri-tania.com/assets/images/og-cover.jpg" />
   <link rel="icon" href="../assets/images/BriTania-logo.png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Questrial&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/fonts.css" />
   <link rel="stylesheet" href="../assets/styles.css" />
+  <link rel="stylesheet" href="../assets/legal.css" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -281,6 +280,10 @@
             <label>Email<input type="email" name="email" required autocomplete="email" /></label>
             <label>Phone <span class="opt">(optional)</span><input type="tel" name="phone" autocomplete="tel" /></label>
             <label>Message<textarea name="message" rows="5" required></textarea></label>
+            <label class="form-consent">
+              <input type="checkbox" name="privacy_consent" value="accepted" required />
+              <span>I have read the <a href="privacy.html" target="_blank" rel="noopener">privacy notice</a> and consent to processing my data so you can reply. Data is forwarded via FormSubmit to the Controller’s email.</span>
+            </label>
             <button type="submit">Send message</button>
           </form>
         </div>
@@ -292,6 +295,8 @@
     <img src="../assets/images/BriTania-logo.png" alt="BriTania" width="70" height="70" />
     <p>Courses Events Copywriting Translations</p>
     <p>Bergamo and Val Seriana · Cenate Sotto (BG)</p>
+    <p class="legal-line">Tania Prestini – BriTania · Via Loreto 87, 24069 Cenate Sotto (BG)<br />Tax code PRSTNA90E58C800R · VAT <em>[insert VAT number]</em></p>
+    <p class="legal-links"><a href="privacy.html">Privacy Policy</a> · <a href="cookie.html">Cookie Policy</a></p>
     <p>© <span id="year"></span> BriTania – All rights reserved</p>
   </footer>
 

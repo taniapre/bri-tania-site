@@ -1,10 +1,10 @@
 # BriTania – Tania Prestini
 
-BriTania is a professional English offering based in **Cenate Sotto (BG)**, serving **Bergamo** and **Val Seriana**.
+BriTania is run by **Tania Prestini** from **Cenate Sotto (BG)**, in the Bergamo area (Val Seriana).
 
 ## Who
 
-Tania Prestini grew up bilingual (Val Seriana / Plymouth, UK). After about 10 years in corporate communications she founded BriTania to teach English, host language events, and write/translate content for people and organisations in the Bergamo area.
+Tania grew up bilingual (Val Seriana / Plymouth, UK). After about 10 years in corporate communications she founded BriTania to teach English, host language events, and write or translate content for people and organisations nearby.
 
 ## Services
 

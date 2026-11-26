@@ -607,7 +607,7 @@ a { color: inherit; }
   }
 
   .logo img {
-    width: 118px;
+    width: 124px;
   }
 
   .tagline-nav {
@@ -684,7 +684,7 @@ a { color: inherit; }
 
 @media (max-width: 560px) {
   .logo img {
-    width: 112px;
+    width: 124px;
   }
 
   .hero-copy,
